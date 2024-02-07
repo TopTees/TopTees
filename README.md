@@ -9,9 +9,6 @@
         <a href="#">Products</a>
         <a href="#">Contact</a>
     </nav>
-
-    <div class="container" id="productContainer">
-        <!-- Product cards will be dynamically added here -->
-    </div>
+<img class="product-image" src="TOUCH ME I'M SICK.jpg" alt="Product 1">
 </body>
 </html>
