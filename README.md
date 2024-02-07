@@ -4,11 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <header>
-        <h1>TopTees</h1>
-    </header>
-
-    <nav>
+     <nav>
         <a href="#">Home</a>
         <a href="#">Products</a>
         <a href="#">Contact</a>
